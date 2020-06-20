@@ -6,4 +6,4 @@
 ## 100 Days of Swift Challenge:
 #### [About](https://noahthedev.xyz/blog/100swift/about)
 ### [Day 1 - 19th June](https://noahthedev.xyz/blog/100swift/06/19/day1)
-### [Day 2 - 20th June](https://noahthedev.xyz/blog/100swift/06/19/day2)
+### [Day 2 - 20th June](https://noahthedev.xyz/blog/100swift/06/20/day2)
