@@ -1,6 +1,7 @@
 # 100 Days of Swift Journal - Day 4
 
 **Day 4 completed, finally!**
+
 *If you're wondering what happened to Day 3...then I forgot to post about it :P*
 
 Day Four of 100 Days Of Swift is done!
