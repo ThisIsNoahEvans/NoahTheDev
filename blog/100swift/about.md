@@ -6,4 +6,6 @@ This is a free collection of videos, tutorials, tests, and more, all drawn from 
 It’s aimed squarely at beginners who want to learn to build real iOS apps, but struggle to find a good, free course that can help them achieve their goals.
 ```
 
+I paused the challenge at the end of June and picked it up again about a month later as I was unable to find the time every day - but I'm back now and learning Swift every day!
+
 You can keep up with my progress by following me on [Twitter](https://twitter.com/thisisnoahevans) and [Instagram](https://instagram.com/noahthedev), and checking out this site's [homepage](https://noahthedev.xyz) for my daily posts.
